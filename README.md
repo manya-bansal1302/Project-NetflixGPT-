@@ -15,6 +15,9 @@
 -Created our Redux Store with userSlice
 -Implemented sign out
 -Update Profile
+-sign uo user display name an dprofile picture ypdate
+-if the user is not logged in redirect / browse to login page and vice-versa
+-Unsubscibe to the onAuthStateChanged callback
 
 
 
