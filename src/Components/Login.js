@@ -42,7 +42,7 @@ const dispatch = useDispatch();
       // Signed up 
       const user = userCredential.user;
       updateProfile(user, {
-        displayName: name.current.value, photoURL: {USER_AVTAR}
+        displayName: name.current.value, photoURL: USER_AVTAR
       }).then(() => {
         const {uid,email,displayName,photoURL} = auth.currentUser;
         dispatch(
