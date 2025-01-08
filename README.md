@@ -20,7 +20,16 @@
 -Unsubscibe to the onAuthStateChanged callback
 -Add hardcoded values to constants filr
 -registered for TMDB API and created an app  & get access oken
-Get data from TMDB and playing movies list API
+-Get data from TMDB and playing movies list API
+-Custom Hook for Now Playing Movies
+-Create MovieSlice
+-Update store with movie data
+-Planning a MainContainer and SecondaryContainer
+-Fetch Data for Trailer Video
+-Update Store with Trailer Video Data
+-Embedded the Youtube video and make it autoplay and mute
+-Tailwind Classes to make Main Container look awesome
+-Build Secondary Component
 
 
 
